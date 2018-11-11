@@ -1,0 +1,28 @@
+{
+  "name": "@mstssk/del-bs",
+  "version": "0.0.0",
+  "description": "Delete backspace charactors.",
+  "engines": {
+    "node": ">=7.6"
+  },
+  "main": "index.js",
+  "bin": {
+    "del-bs": "./bin/del-bs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstssk/del-bs.git"
+  },
+  "keywords": [
+    "backspace"
+  ],
+  "author": "mstssk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mstssk/del-bs/issues"
+  },
+  "homepage": "https://github.com/mstssk/del-bs#readme"
+}
