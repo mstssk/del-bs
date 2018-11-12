@@ -1,6 +1,6 @@
 {
   "name": "@mstssk/del-bs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Delete backspace charactors.",
   "engines": {
     "node": ">=7.6"
